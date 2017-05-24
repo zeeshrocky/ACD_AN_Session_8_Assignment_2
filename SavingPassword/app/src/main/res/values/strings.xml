@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Saving Password</string>
+    <string name="settings">Shared SETTINGS</string>
+    <string name="password">Password</string>
+    <string name="set_password">Set Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="security_settings">SECURITY SETTINGS</string>
+    <string name="screen_lock">Screen Lock</string>
+    <string name="lock_screen">Lock the Screen with Password</string>
+    <string name="update_reminder">Reminder for Updation</string>
+    <string name="set_reminder_frequency">Set update reminder frequency</string>
+    <string name="enter_frequency">Enter Frequency</string>
+    <string name="save_preference">SAVE Preference</string>
+    <string name="next_activity">Next Activity</string>
+</resources>
